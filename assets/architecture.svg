@@ -1,0 +1,24 @@
+<svg width="800" height="260" viewBox="0 0 800 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="260" fill="#0B132B" rx="8"/>
+  <rect x="40" y="50" width="200" height="160" rx="8" fill="#1C2541" stroke="#3A506B"/>
+  <text x="60" y="85" fill="#6FFFE9" font-family="system-ui" font-size="16" font-weight="600">Agent Inference Node</text>
+  <text x="60" y="115" fill="#E0E1DD" font-family="system-ui" font-size="12">• Private Model Weights</text>
+  <text x="60" y="140" fill="#E0E1DD" font-family="system-ui" font-size="12">• Tensor Inference Output</text>
+  <text x="60" y="165" fill="#E0E1DD" font-family="system-ui" font-size="12">• Groth16 Witness Gen</text>
+
+  <path d="M 240 130 L 300 130" stroke="#5BC0BE" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <rect x="300" y="50" width="200" height="160" rx="8" fill="#1C2541" stroke="#3A506B"/>
+  <text x="320" y="85" fill="#6FFFE9" font-family="system-ui" font-size="16" font-weight="600">ZK Oracle Relayer</text>
+  <text x="320" y="115" fill="#E0E1DD" font-family="system-ui" font-size="12">• Monotonic Sequencing</text>
+  <text x="320" y="140" fill="#E0E1DD" font-family="system-ui" font-size="12">• Weighted Aggregation</text>
+  <text x="320" y="165" fill="#E0E1DD" font-family="system-ui" font-size="12">• x402 Micropay Binding</text>
+
+  <path d="M 500 130 L 560 130" stroke="#5BC0BE" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <rect x="560" y="50" width="200" height="160" rx="8" fill="#1C2541" stroke="#3A506B"/>
+  <text x="580" y="85" fill="#6FFFE9" font-family="system-ui" font-size="16" font-weight="600">Kite Chain</text>
+  <text x="580" y="115" fill="#E0E1DD" font-family="system-ui" font-size="12">• KiteAgentZKOracle.sol</text>
+  <text x="580" y="140" fill="#E0E1DD" font-family="system-ui" font-size="12">• On-chain Feed State</text>
+  <text x="580" y="165" fill="#E0E1DD" font-family="system-ui" font-size="12">• Gas-optimized EIP-155</text>
+</svg>
