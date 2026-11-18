@@ -1,0 +1,34 @@
+{
+  "name": "@longxiaolx/kite-agent-zk-oracle",
+  "version": "1.0.0",
+  "description": "Zero-Knowledge Verifiable Off-Chain AI Inference & Cross-Chain State Oracle on Kite Chain",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
+    "lint": "eslint \"src/**/*.ts\""
+  },
+  "keywords": [
+    "kiteai",
+    "zk-oracle",
+    "zero-knowledge",
+    "ai-inference",
+    "autonomous-agents",
+    "x402",
+    "web3"
+  ],
+  "author": "longxiaoLX",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "viem": "^2.17.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.5.3",
+    "vitest": "^2.0.0"
+  }
+}
